@@ -1,0 +1,8 @@
+*.class
+*.jar
+*.exe
+*.dat
+*.mp4
+*.db
+*.log
+apps/.env.example

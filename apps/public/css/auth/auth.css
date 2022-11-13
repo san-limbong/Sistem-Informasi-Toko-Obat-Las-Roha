@@ -1,0 +1,20 @@
+*{
+    color: black;
+}
+
+.formlogin{
+    width:500px;
+    height: 30px;
+}
+
+.btnlogin{
+    width:200px;
+}
+
+.avatar{
+    size: 20px;
+}
+
+.clear{
+    text-decoration: none;
+}
