@@ -1,4 +1,3 @@
-# PSI-2022-03 Sistem Informasi Toko Obat Las Roha (SILAS)
 Please read [RULES.md](RULES.md).
 
 ## General Discription
@@ -26,8 +25,7 @@ Fitur pada Aplikasi ini meliputi:
 
 ## Installation Guide
 1. Clone atau download code
-    - Pada terminal, clone repo `git clone git@github.com:proyek-mahasiswa/psi-22-03-silas.git`
-    - atau `git clone https://github.com/proyek-mahasiswa/psi-22-03-silas.git`
+    - Pada terminal `git clone https://github.com/san-limbong/Sistem-Informasi-Toko-Obat-Las-Roha.git`
     - Jika tidak menggunakan Git, silakan **Download Zip** dan *extract* 
 2. `cd apps`
 3. `composer install` dan `composer update`
@@ -48,11 +46,3 @@ Fitur pada Aplikasi ini meliputi:
 + VS Code   :   1.64.0
 + PHP       :   8.0.xx    
 + Heidi SQL :   11.3.0.6371 (32 Bit)
-
-# Contributors
-+ 12S1S013 - Agnes Sagita Lumbantobing (@agnessagita)
-+ 12S19028 - Anju Ucok Lubis (@anjuucoklubis)
-+ 12S19033 - San Antonio Limbong (@san-limbong)
-+ 12S19035 - Nixon Daniel Hutahaean (@Xedonedron)
-+ 12S19040 - Abel Maylio Yosevino Tampubolon (@AbelTampubolon)
-# Sistem-Informasi-Toko-Obat-Las-Roha
