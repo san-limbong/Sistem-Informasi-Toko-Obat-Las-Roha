@@ -1,5 +1,3 @@
-Please read [RULES.md](RULES.md).
-
 ## General Discription
 Sistem Informasi Toko Obat Las Roha merupakan sistem informasi berbasis web, Toko Obat Las Roha merupakan salah satu toko yang menjual berbagai macam jenis obat ataupun barang non-medis. Dalam melakukan transaksinya, Toko Obat Las Roha masih menggunakan cara manual yaitu dengan mencatat setiap transaksi yang dilakukan kedalam buku besar. Untuk membuat laporan penjualan dan pembelian karyawan harus menjumlah setiap transaksi yang dilakukan perbulannya dan mengarsipkan faktur-faktur pembelian, jika ada kesalahan dalam pencatatan maka akan menjadi kendala bagi pihak toko obat untuk mendapatkan informasi yang akurat. Tujuan dari pengembangan ini adalah untuk menghasilkan sistem informasi penjualan dan pembelian obat di Toko Obat Las Roha di Balige. Sistem informasi ini dapat memudahkan karyawan dalam mengolah data obat, data penjualan dan data pembelian serta memberikan informasi penjualan kepada konsumen. Untuk menghasilkan sistem informasi penjualan dan pembelian ini menggunakan metode penelitian R&D dan dihasilkan sebuah sistem informasi berbasis web yang digunakan oleh tiga user yaitu pemilik usaha, customer dan karyawan dimana sistem tersebut mempunyai tampilan interface berupa form login, form data obat, form data penjualan, form laporan penjualan, pembelian, dan stok obat dan hasil pengujian sistem ini menggunakan blackbox testing.
 
@@ -37,12 +35,3 @@ Fitur pada Aplikasi ini meliputi:
 8. `php artisan migrate --seed`
 9. `php artisan serve`
 10. Selesai
-
-### Minimum Hardware Requirements
-+ RAM       :   8.00 GB
-+ Processor :   Intel(R)Core(TM)i5
-
-### Minimum Software Requirements
-+ VS Code   :   1.64.0
-+ PHP       :   8.0.xx    
-+ Heidi SQL :   11.3.0.6371 (32 Bit)
