@@ -17,9 +17,16 @@ Fitur pada Aplikasi ini meliputi:
     - Mengelola Pemesanan
 6. Mengelola Akun Karyawan
 
-## Architectural Design
+## Dokumen Rujukan
+Berikut adalah tabel yang menampilkan dokumen yang menjadi rujukan dalam penulisan dokumen:
 
-## Database Design
+| No  | Dokumen ID             | Dokumen                               | Keterangan                                                                              |
+|-----|------------------------|---------------------------------------|----------------------------------------------------------------------------------------|
+| [1] | ToR-PSI-22-03         | Term of Reference                     | Dokumen ini menjelaskan latar belakang, tujuan, topik, requirement (kebutuhan), hasil, pendekatan yang akan dipakai, serta ruang lingkup dari proyek yang akan menjadi bahan acuan selama pengerjaan. |
+| [2] | PIP-PSI-22-03         | Project Implementation Plan           | Dokumen ini adalah perencanaan pembangunan website Forum Mahasiswa IT Del yang menjadi langkah awal dalam pengerjaan proyek. |
+| [3] | URS-PSI-22-03         | User Requirement Specification         | Dokumen ini merinci kebutuhan pengguna untuk proyek Sistem Informasi Toko Obat Las Roha di Balige. |
+| [4] | SyRS-PSI-22-03        | System Requirement Specification        | Dokumen yang menguraikan kebutuhan sistem, gambaran sistem yang akan dibangun, serta fungsi-fungsi yang akan digunakan dalam sistem. |
+| [5] | SDD-PSI-22-01         | Software Design Document              | Dokumen ini mendeskripsikan gambaran dan desain dari perangkat lunak yang akan dibuat. |
 
 ## Installation Guide
 1. Clone atau download code
